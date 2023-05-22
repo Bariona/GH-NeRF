@@ -62,11 +62,16 @@ Project Layout:
 ### Result
 
 trex: 
-![](/static/trex.png) ![](/static/dep.png)
+<div>
+  <img src="/static/trex.png" width="49%"> </img> 
+  <img src="/static/dep.png" width="49%"> </img> 
+</div>
 
 
-![](/static/trex_test.gif) ![](/static/desp_test.gif)
-
+<div>
+   <img src="https://github.com/Bariona/GH-NeRF/blob/main/static/trex_test.gif" alt="pic2" width="49%">
+   <img src="https://github.com/Bariona/GH-NeRF/blob/main/static/trex_test.gif" alt="pic3" width="49%">
+</div>
 ### Mini paper
 
 see `./static/paper.pdf` in the project.
