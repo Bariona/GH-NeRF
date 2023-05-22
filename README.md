@@ -70,7 +70,7 @@ trex:
 
 <div>
    <img src="https://github.com/Bariona/GH-NeRF/blob/main/static/trex_test.gif" alt="pic2" width="49%">
-   <img src="https://github.com/Bariona/GH-NeRF/blob/main/static/disp_test.gif" alt="pic3" width="49%">
+   <img src="https://github.com/Bariona/GH-NeRF/blob/main/static/desp_test.gif" alt="pic3" width="49%">
 </div>
 ### Mini paper
 
